@@ -37,10 +37,6 @@ O site utiliza media queries para adaptar o layout aos seguintes pontos de quebr
 - `768px` para tablets
 - `1024px` para desktops
 
-## Preview
-
-> Inclua aqui um link ou captura de tela da página pronta
-
 ## Tecnologias
 
 - HTML5
